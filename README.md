@@ -1,2 +1,1 @@
-# Prepcourse-
-Esta es una prueba
+Prueba
